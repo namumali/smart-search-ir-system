@@ -1,0 +1,12 @@
+Information Retrieval Systems
+
+URL: https://cs.example.com/information-retrieval
+
+Information retrieval systems help users find relevant documents.
+Boolean retrieval uses AND, OR, and NOT operators.
+Vector space models represent documents as vectors.
+TF-IDF weighting balances term frequency and inverse document frequency.
+Precision and recall measure retrieval system performance.
+Query expansion improves search results by adding related terms.
+Ranking algorithms determine the order of search results.
+Machine learning techniques enhance modern information retrieval systems.

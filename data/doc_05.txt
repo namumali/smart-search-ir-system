@@ -1,0 +1,12 @@
+Search Engine Architecture
+
+URL: https://cs.example.com/search-engines
+
+Search engines use inverted indexes to map terms to documents.
+Tokenization is the process of breaking text into individual words.
+Term frequency measures how often a word appears in a document.
+Document ranking combines multiple signals like relevance and authority.
+Search engines use various data structures for efficient retrieval.
+Crawling and indexing are key components of search engine systems.
+Relevance scoring helps determine which documents match a query best.
+Modern search engines process billions of queries daily using distributed systems.

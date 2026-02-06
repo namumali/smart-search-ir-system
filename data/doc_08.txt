@@ -1,0 +1,9 @@
+Tree Data Structures
+
+Binary trees have at most two children per node.
+Binary search trees maintain sorted order for efficient searching.
+AVL trees are self-balancing binary search trees.
+Red-black trees provide balanced tree operations.
+B-trees are optimized for disk storage and databases.
+Tree traversal includes preorder, inorder, and postorder methods.
+Tree structures are fundamental in computer science algorithms.

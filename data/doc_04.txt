@@ -1,0 +1,9 @@
+Merge Sort Algorithm
+
+Merge Sort is a divide and conquer sorting algorithm.
+Merge Sort has a time complexity of O(n log n) in all cases.
+The algorithm divides the array into halves recursively.
+Merge Sort is stable, meaning it preserves the relative order of equal elements.
+The merge step combines two sorted subarrays into one sorted array.
+Merge Sort requires additional space for the merging process.
+Merge Sort is efficient for large datasets and external sorting.

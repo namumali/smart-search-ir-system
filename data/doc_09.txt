@@ -1,0 +1,12 @@
+Algorithm Complexity Analysis
+
+URL: https://cs.example.com/complexity
+
+Big O notation describes algorithm time complexity.
+Time complexity measures how runtime grows with input size.
+Space complexity measures memory usage of algorithms.
+Best case, average case, and worst case scenarios differ.
+Amortized analysis considers average performance over operations.
+Complexity analysis helps compare algorithm efficiency.
+Optimization often involves trading time for space or vice versa.
+Understanding complexity is crucial for scalable software design.

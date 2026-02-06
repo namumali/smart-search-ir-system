@@ -1,0 +1,12 @@
+Graph Algorithms Overview
+
+URL: https://cs.example.com/graph-algorithms
+
+Graph algorithms are fundamental in computer science.
+Graphs represent relationships between entities using nodes and edges.
+Common graph algorithms include BFS, DFS, and shortest path algorithms.
+PageRank is a graph algorithm used to rank web pages by importance.
+Graph traversal algorithms help explore all nodes in a graph.
+Weighted graphs assign values to edges representing distances or costs.
+Graph algorithms are used in social networks, routing, and recommendation systems.
+Network analysis relies heavily on graph theory and algorithmic techniques.

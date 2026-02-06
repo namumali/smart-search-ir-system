@@ -1,0 +1,9 @@
+Data Structures Fundamentals
+
+Data structures organize and store data efficiently.
+Arrays provide constant-time access but fixed size.
+Linked lists allow dynamic memory allocation.
+Trees enable hierarchical data organization.
+Hash tables provide fast key-value lookups.
+Choosing the right data structure depends on the use case.
+Time and space complexity analysis guides data structure selection.

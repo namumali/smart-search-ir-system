@@ -1,0 +1,9 @@
+B+ Trees in Databases
+
+B+ Trees are used in databases for indexing and storage.
+B+ Trees maintain sorted data and allow efficient insertion and deletion.
+Internal nodes in B+ Trees store keys and pointers to child nodes.
+Leaf nodes in B+ Trees store actual data records.
+B+ Trees are balanced tree structures that minimize disk I/O operations.
+Database systems like MySQL and PostgreSQL use B+ Trees for indexing.
+B+ Trees provide logarithmic time complexity for search operations.

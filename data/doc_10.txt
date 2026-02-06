@@ -1,0 +1,9 @@
+Database Indexing Techniques
+
+Indexes speed up database query performance.
+Primary indexes are built on the primary key of a table.
+Secondary indexes are built on non-key attributes.
+B+ Trees are commonly used for database indexing.
+Hash indexes provide fast equality lookups.
+Composite indexes combine multiple columns.
+Index maintenance requires balancing query speed and update cost.
