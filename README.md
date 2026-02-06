@@ -1,4 +1,4 @@
-# Smart Search and Information Retrieval System
+# Smart Search & Information Retrieval System
 
 A simplified search engine implementation with **Web UI** demonstrating the application of core data structures and algorithms: **Tries**, **B+ Trees**, **Graph Algorithms (PageRank)**, and **Merge Sort**.
 
